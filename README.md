@@ -277,7 +277,7 @@ config = {
 - [COCO Dataset](https://cocodataset.org/)
 - [Roboflow for Dataset Annotation](https://roboflow.com/)
 
-## 📝 Dataset Format
+## Dataset Format
 
 For custom training (Custom notebook), labels should follow YOLO format:
 
